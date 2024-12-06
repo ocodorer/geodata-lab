@@ -11,7 +11,7 @@
                 ]
             },
             "properties": {
-                "id": "BR01",
+                "GEO_ID": "BR01",
                 "primaryName": "動物園",
                 "name": "Taipei Zoo",
                 "latitude": 24.998197,
@@ -29,7 +29,7 @@
                 ]
             },
             "properties": {
-                "id": "BR02",
+                "GEO_ID": "BR02",
                 "primaryName": "木柵",
                 "name": "Muzha",
                 "latitude": 24.998241,
@@ -47,7 +47,7 @@
                 ]
             },
             "properties": {
-                "id": "BR03",
+                "GEO_ID": "BR03",
                 "primaryName": "萬芳社區",
                 "name": "Wanfang Community",
                 "latitude": 24.998585,
@@ -65,7 +65,7 @@
                 ]
             },
             "properties": {
-                "id": "BR04",
+                "GEO_ID": "BR04",
                 "primaryName": "萬芳醫院",
                 "name": "Wanfang Hospital",
                 "latitude": 24.999386,
@@ -83,7 +83,7 @@
                 ]
             },
             "properties": {
-                "id": "BR05",
+                "GEO_ID": "BR05",
                 "primaryName": "辛亥",
                 "name": "Xinhai",
                 "latitude": 25.005475,
@@ -101,7 +101,7 @@
                 ]
             },
             "properties": {
-                "id": "BR06",
+                "GEO_ID": "BR06",
                 "primaryName": "麟光",
                 "name": "Linguang",
                 "latitude": 25.018535,
@@ -119,7 +119,7 @@
                 ]
             },
             "properties": {
-                "id": "BR07",
+                "GEO_ID": "BR07",
                 "primaryName": "六張犁",
                 "name": "Liuzhangli",
                 "latitude": 25.023777,
@@ -137,7 +137,7 @@
                 ]
             },
             "properties": {
-                "id": "BR08",
+                "GEO_ID": "BR08",
                 "primaryName": "科技大樓",
                 "name": "Technology Building",
                 "latitude": 25.026125,
@@ -155,7 +155,7 @@
                 ]
             },
             "properties": {
-                "id": "BR09",
+                "GEO_ID": "BR09",
                 "primaryName": "大安",
                 "name": "Daan",
                 "latitude": 25.032943,
@@ -173,7 +173,7 @@
                 ]
             },
             "properties": {
-                "id": "BR10",
+                "GEO_ID": "BR10",
                 "primaryName": "忠孝復興",
                 "name": "Zhongxiao Fuxing",
                 "latitude": 25.041629,
@@ -191,7 +191,7 @@
                 ]
             },
             "properties": {
-                "id": "BR11",
+                "GEO_ID": "BR11",
                 "primaryName": "南京復興",
                 "name": "Nanjing Fuxing",
                 "latitude": 25.052319,
@@ -209,7 +209,7 @@
                 ]
             },
             "properties": {
-                "id": "BR12",
+                "GEO_ID": "BR12",
                 "primaryName": "中山國中",
                 "name": "Zhongshan Junior High School",
                 "latitude": 25.060849,
@@ -227,7 +227,7 @@
                 ]
             },
             "properties": {
-                "id": "BR13",
+                "GEO_ID": "BR13",
                 "primaryName": "松山機場",
                 "name": "Songshan Airport",
                 "latitude": 25.063,
@@ -245,7 +245,7 @@
                 ]
             },
             "properties": {
-                "id": "BR14",
+                "GEO_ID": "BR14",
                 "primaryName": "大直",
                 "name": "Dazhi",
                 "latitude": 25.079477,
@@ -263,7 +263,7 @@
                 ]
             },
             "properties": {
-                "id": "BR15",
+                "GEO_ID": "BR15",
                 "primaryName": "劍南路",
                 "name": "Jiannan Rd.",
                 "latitude": 25.084853,
@@ -281,7 +281,7 @@
                 ]
             },
             "properties": {
-                "id": "BR16",
+                "GEO_ID": "BR16",
                 "primaryName": "西湖",
                 "name": "Xihu",
                 "latitude": 25.082133,
@@ -299,7 +299,7 @@
                 ]
             },
             "properties": {
-                "id": "BR17",
+                "GEO_ID": "BR17",
                 "primaryName": "港墘",
                 "name": "Gangqian",
                 "latitude": 25.080028,
@@ -317,7 +317,7 @@
                 ]
             },
             "properties": {
-                "id": "BR18",
+                "GEO_ID": "BR18",
                 "primaryName": "文德",
                 "name": "Wende",
                 "latitude": 25.078532,
@@ -335,7 +335,7 @@
                 ]
             },
             "properties": {
-                "id": "BR19",
+                "GEO_ID": "BR19",
                 "primaryName": "內湖",
                 "name": "Neihu",
                 "latitude": 25.083661,
@@ -353,7 +353,7 @@
                 ]
             },
             "properties": {
-                "id": "BR20",
+                "GEO_ID": "BR20",
                 "primaryName": "大湖公園",
                 "name": "Dahu Park",
                 "latitude": 25.083845,
@@ -371,7 +371,7 @@
                 ]
             },
             "properties": {
-                "id": "BR21",
+                "GEO_ID": "BR21",
                 "primaryName": "葫洲",
                 "name": "Huzhou",
                 "latitude": 25.072701,
@@ -389,7 +389,7 @@
                 ]
             },
             "properties": {
-                "id": "BR22",
+                "GEO_ID": "BR22",
                 "primaryName": "東湖",
                 "name": "Donghu",
                 "latitude": 25.067147,
@@ -407,7 +407,7 @@
                 ]
             },
             "properties": {
-                "id": "BR23",
+                "GEO_ID": "BR23",
                 "primaryName": "南港軟體園區",
                 "name": "Nangang Software Park",
                 "latitude": 25.059905,
@@ -425,7 +425,7 @@
                 ]
             },
             "properties": {
-                "id": "BR24",
+                "GEO_ID": "BR24",
                 "primaryName": "南港展覽館",
                 "name": "Taipei Nangang Exhibition Center",
                 "latitude": 25.055288,
@@ -443,7 +443,7 @@
                 ]
             },
             "properties": {
-                "id": "R02",
+                "GEO_ID": "R02",
                 "primaryName": "象山",
                 "name": "Xiangshan",
                 "latitude": 25.03283,
@@ -461,7 +461,7 @@
                 ]
             },
             "properties": {
-                "id": "R03",
+                "GEO_ID": "R03",
                 "primaryName": "台北101/世貿",
                 "name": "Taipei 101/World Trade Center",
                 "latitude": 25.033102,
@@ -479,7 +479,7 @@
                 ]
             },
             "properties": {
-                "id": "R04",
+                "GEO_ID": "R04",
                 "primaryName": "信義安和",
                 "name": "Xinyi Anhe",
                 "latitude": 25.033326,
@@ -497,7 +497,7 @@
                 ]
             },
             "properties": {
-                "id": "R05",
+                "GEO_ID": "R05",
                 "primaryName": "大安",
                 "name": "Daan",
                 "latitude": 25.032943,
@@ -515,7 +515,7 @@
                 ]
             },
             "properties": {
-                "id": "R06",
+                "GEO_ID": "R06",
                 "primaryName": "大安森林公園",
                 "name": "Daan Park",
                 "latitude": 25.033396,
@@ -533,7 +533,7 @@
                 ]
             },
             "properties": {
-                "id": "R07",
+                "GEO_ID": "R07",
                 "primaryName": "東門",
                 "name": "Dongmen",
                 "latitude": 25.033847,
@@ -551,7 +551,7 @@
                 ]
             },
             "properties": {
-                "id": "R08",
+                "GEO_ID": "R08",
                 "primaryName": "中正紀念堂",
                 "name": "Chiang Kai-Shek Memorial Hall",
                 "latitude": 25.032729,
@@ -569,7 +569,7 @@
                 ]
             },
             "properties": {
-                "id": "R09",
+                "GEO_ID": "R09",
                 "primaryName": "台大醫院",
                 "name": "NTU Hospital",
                 "latitude": 25.041256,
@@ -587,7 +587,7 @@
                 ]
             },
             "properties": {
-                "id": "R10",
+                "GEO_ID": "R10",
                 "primaryName": "台北車站",
                 "name": "Taipei Main Station",
                 "latitude": 25.046255,
@@ -605,7 +605,7 @@
                 ]
             },
             "properties": {
-                "id": "R11",
+                "GEO_ID": "R11",
                 "primaryName": "中山",
                 "name": "Zhongshan",
                 "latitude": 25.052685,
@@ -623,7 +623,7 @@
                 ]
             },
             "properties": {
-                "id": "R12",
+                "GEO_ID": "R12",
                 "primaryName": "雙連",
                 "name": "Shuanglian",
                 "latitude": 25.057805,
@@ -641,7 +641,7 @@
                 ]
             },
             "properties": {
-                "id": "R13",
+                "GEO_ID": "R13",
                 "primaryName": "民權西路",
                 "name": "Minquan W. Rd.",
                 "latitude": 25.062905,
@@ -659,7 +659,7 @@
                 ]
             },
             "properties": {
-                "id": "R14",
+                "GEO_ID": "R14",
                 "primaryName": "圓山",
                 "name": "Yuanshan",
                 "latitude": 25.071353,
@@ -677,7 +677,7 @@
                 ]
             },
             "properties": {
-                "id": "R15",
+                "GEO_ID": "R15",
                 "primaryName": "劍潭",
                 "name": "Jiantan",
                 "latitude": 25.084873,
@@ -695,7 +695,7 @@
                 ]
             },
             "properties": {
-                "id": "R16",
+                "GEO_ID": "R16",
                 "primaryName": "士林",
                 "name": "Shilin",
                 "latitude": 25.093535,
@@ -713,7 +713,7 @@
                 ]
             },
             "properties": {
-                "id": "R17",
+                "GEO_ID": "R17",
                 "primaryName": "芝山",
                 "name": "Zhishan",
                 "latitude": 25.10306,
@@ -731,7 +731,7 @@
                 ]
             },
             "properties": {
-                "id": "R18",
+                "GEO_ID": "R18",
                 "primaryName": "明德",
                 "name": "Mingde",
                 "latitude": 25.109721,
@@ -749,7 +749,7 @@
                 ]
             },
             "properties": {
-                "id": "R19",
+                "GEO_ID": "R19",
                 "primaryName": "石牌",
                 "name": "Shipai",
                 "latitude": 25.114523,
@@ -767,7 +767,7 @@
                 ]
             },
             "properties": {
-                "id": "R20",
+                "GEO_ID": "R20",
                 "primaryName": "唭哩岸",
                 "name": "Qilian",
                 "latitude": 25.120872,
@@ -785,7 +785,7 @@
                 ]
             },
             "properties": {
-                "id": "R21",
+                "GEO_ID": "R21",
                 "primaryName": "奇岩",
                 "name": "Qiyan",
                 "latitude": 25.125491,
@@ -803,7 +803,7 @@
                 ]
             },
             "properties": {
-                "id": "R22",
+                "GEO_ID": "R22",
                 "primaryName": "北投",
                 "name": "Beitou",
                 "latitude": 25.131841,
@@ -821,7 +821,7 @@
                 ]
             },
             "properties": {
-                "id": "R22A",
+                "GEO_ID": "R22A",
                 "primaryName": "新北投",
                 "name": "Xinbeitou",
                 "latitude": 25.136933,
@@ -839,7 +839,7 @@
                 ]
             },
             "properties": {
-                "id": "R23",
+                "GEO_ID": "R23",
                 "primaryName": "復興崗",
                 "name": "Fuxinggang",
                 "latitude": 25.137474,
@@ -857,7 +857,7 @@
                 ]
             },
             "properties": {
-                "id": "R24",
+                "GEO_ID": "R24",
                 "primaryName": "忠義",
                 "name": "Zhongyi",
                 "latitude": 25.130969,
@@ -875,7 +875,7 @@
                 ]
             },
             "properties": {
-                "id": "R25",
+                "GEO_ID": "R25",
                 "primaryName": "關渡",
                 "name": "Guandu",
                 "latitude": 25.125633,
@@ -893,7 +893,7 @@
                 ]
             },
             "properties": {
-                "id": "R26",
+                "GEO_ID": "R26",
                 "primaryName": "竹圍",
                 "name": "Zhuwei",
                 "latitude": 25.13694,
@@ -911,7 +911,7 @@
                 ]
             },
             "properties": {
-                "id": "R27",
+                "GEO_ID": "R27",
                 "primaryName": "紅樹林",
                 "name": "Hongshulin",
                 "latitude": 25.154042,
@@ -929,7 +929,7 @@
                 ]
             },
             "properties": {
-                "id": "R28",
+                "GEO_ID": "R28",
                 "primaryName": "淡水",
                 "name": "Tamsui",
                 "latitude": 25.167818,
@@ -947,7 +947,7 @@
                 ]
             },
             "properties": {
-                "id": "G01",
+                "GEO_ID": "G01",
                 "primaryName": "新店",
                 "name": "Xindian",
                 "latitude": 24.957855,
@@ -965,7 +965,7 @@
                 ]
             },
             "properties": {
-                "id": "G02",
+                "GEO_ID": "G02",
                 "primaryName": "新店區公所",
                 "name": "Xindian District Office",
                 "latitude": 24.967393,
@@ -983,7 +983,7 @@
                 ]
             },
             "properties": {
-                "id": "G03",
+                "GEO_ID": "G03",
                 "primaryName": "七張",
                 "name": "Qizhang",
                 "latitude": 24.975169,
@@ -1001,7 +1001,7 @@
                 ]
             },
             "properties": {
-                "id": "G03A",
+                "GEO_ID": "G03A",
                 "primaryName": "小碧潭",
                 "name": "Xiaobitan",
                 "latitude": 24.971907,
@@ -1019,7 +1019,7 @@
                 ]
             },
             "properties": {
-                "id": "G04",
+                "GEO_ID": "G04",
                 "primaryName": "大坪林",
                 "name": "Dapinglin",
                 "latitude": 24.982899,
@@ -1037,7 +1037,7 @@
                 ]
             },
             "properties": {
-                "id": "G05",
+                "GEO_ID": "G05",
                 "primaryName": "景美",
                 "name": "Jingmei",
                 "latitude": 24.9921276,
@@ -1055,7 +1055,7 @@
                 ]
             },
             "properties": {
-                "id": "G06",
+                "GEO_ID": "G06",
                 "primaryName": "萬隆",
                 "name": "Wanlong",
                 "latitude": 25.001853,
@@ -1073,7 +1073,7 @@
                 ]
             },
             "properties": {
-                "id": "G07",
+                "GEO_ID": "G07",
                 "primaryName": "公館",
                 "name": "Gongguan",
                 "latitude": 25.014908,
@@ -1091,7 +1091,7 @@
                 ]
             },
             "properties": {
-                "id": "G08",
+                "GEO_ID": "G08",
                 "primaryName": "台電大樓",
                 "name": "Taipower Building",
                 "latitude": 25.020725,
@@ -1109,7 +1109,7 @@
                 ]
             },
             "properties": {
-                "id": "G09",
+                "GEO_ID": "G09",
                 "primaryName": "古亭",
                 "name": "Guting",
                 "latitude": 25.026357,
@@ -1127,7 +1127,7 @@
                 ]
             },
             "properties": {
-                "id": "G10",
+                "GEO_ID": "G10",
                 "primaryName": "中正紀念堂",
                 "name": "Chiang Kai-Shek Memorial Hall",
                 "latitude": 25.032729,
@@ -1145,7 +1145,7 @@
                 ]
             },
             "properties": {
-                "id": "G11",
+                "GEO_ID": "G11",
                 "primaryName": "小南門",
                 "name": "Xiaonanmen",
                 "latitude": 25.035547,
@@ -1163,7 +1163,7 @@
                 ]
             },
             "properties": {
-                "id": "G12",
+                "GEO_ID": "G12",
                 "primaryName": "西門",
                 "name": "Ximen",
                 "latitude": 25.04209,
@@ -1181,7 +1181,7 @@
                 ]
             },
             "properties": {
-                "id": "G13",
+                "GEO_ID": "G13",
                 "primaryName": "北門",
                 "name": "Beimen",
                 "latitude": 25.049554,
@@ -1199,7 +1199,7 @@
                 ]
             },
             "properties": {
-                "id": "G14",
+                "GEO_ID": "G14",
                 "primaryName": "中山",
                 "name": "Zhongshan",
                 "latitude": 25.052685,
@@ -1217,7 +1217,7 @@
                 ]
             },
             "properties": {
-                "id": "G15",
+                "GEO_ID": "G15",
                 "primaryName": "松江南京",
                 "name": "Songjiang Nanjing",
                 "latitude": 25.052015,
@@ -1235,7 +1235,7 @@
                 ]
             },
             "properties": {
-                "id": "G16",
+                "GEO_ID": "G16",
                 "primaryName": "南京復興",
                 "name": "Nanjing Fuxing",
                 "latitude": 25.052319,
@@ -1253,7 +1253,7 @@
                 ]
             },
             "properties": {
-                "id": "G17",
+                "GEO_ID": "G17",
                 "primaryName": "台北小巨蛋",
                 "name": "Taipei Arena",
                 "latitude": 25.051836,
@@ -1271,7 +1271,7 @@
                 ]
             },
             "properties": {
-                "id": "G18",
+                "GEO_ID": "G18",
                 "primaryName": "南京三民",
                 "name": "Nanjing Sanmin",
                 "latitude": 25.051652,
@@ -1289,7 +1289,7 @@
                 ]
             },
             "properties": {
-                "id": "G19",
+                "GEO_ID": "G19",
                 "primaryName": "松山",
                 "name": "Songshan",
                 "latitude": 25.050118,
@@ -1307,7 +1307,7 @@
                 ]
             },
             "properties": {
-                "id": "O01",
+                "GEO_ID": "O01",
                 "primaryName": "南勢角",
                 "name": "Nanshijiao",
                 "latitude": 24.990045,
@@ -1325,7 +1325,7 @@
                 ]
             },
             "properties": {
-                "id": "O02",
+                "GEO_ID": "O02",
                 "primaryName": "景安",
                 "name": "Jingan",
                 "latitude": 24.993905,
@@ -1343,7 +1343,7 @@
                 ]
             },
             "properties": {
-                "id": "O03",
+                "GEO_ID": "O03",
                 "primaryName": "永安市場",
                 "name": "Yongan Market",
                 "latitude": 25.002876,
@@ -1361,7 +1361,7 @@
                 ]
             },
             "properties": {
-                "id": "O04",
+                "GEO_ID": "O04",
                 "primaryName": "頂溪",
                 "name": "Dingxi",
                 "latitude": 25.013821,
@@ -1379,7 +1379,7 @@
                 ]
             },
             "properties": {
-                "id": "O05",
+                "GEO_ID": "O05",
                 "primaryName": "古亭",
                 "name": "Guting",
                 "latitude": 25.026357,
@@ -1397,7 +1397,7 @@
                 ]
             },
             "properties": {
-                "id": "O06",
+                "GEO_ID": "O06",
                 "primaryName": "東門",
                 "name": "Dongmen",
                 "latitude": 25.033847,
@@ -1415,7 +1415,7 @@
                 ]
             },
             "properties": {
-                "id": "O07",
+                "GEO_ID": "O07",
                 "primaryName": "忠孝新生",
                 "name": "Zhongxiao Xinsheng",
                 "latitude": 25.042356,
@@ -1433,7 +1433,7 @@
                 ]
             },
             "properties": {
-                "id": "O08",
+                "GEO_ID": "O08",
                 "primaryName": "松江南京",
                 "name": "Songjiang Nanjing",
                 "latitude": 25.052015,
@@ -1451,7 +1451,7 @@
                 ]
             },
             "properties": {
-                "id": "O09",
+                "GEO_ID": "O09",
                 "primaryName": "行天宮",
                 "name": "Xingtian Temple",
                 "latitude": 25.059718,
@@ -1469,7 +1469,7 @@
                 ]
             },
             "properties": {
-                "id": "O10",
+                "GEO_ID": "O10",
                 "primaryName": "中山國小",
                 "name": "Zhongshan Elementary School",
                 "latitude": 25.062694,
@@ -1487,7 +1487,7 @@
                 ]
             },
             "properties": {
-                "id": "O11",
+                "GEO_ID": "O11",
                 "primaryName": "民權西路",
                 "name": "Minquan W. Rd.",
                 "latitude": 25.062905,
@@ -1505,7 +1505,7 @@
                 ]
             },
             "properties": {
-                "id": "O12",
+                "GEO_ID": "O12",
                 "primaryName": "大橋頭",
                 "name": "Daqiaotou",
                 "latitude": 25.063256,
@@ -1523,7 +1523,7 @@
                 ]
             },
             "properties": {
-                "id": "O13",
+                "GEO_ID": "O13",
                 "primaryName": "台北橋",
                 "name": "Taipei Bridge",
                 "latitude": 25.063274,
@@ -1541,7 +1541,7 @@
                 ]
             },
             "properties": {
-                "id": "O14",
+                "GEO_ID": "O14",
                 "primaryName": "菜寮",
                 "name": "Cailiao",
                 "latitude": 25.060274,
@@ -1559,7 +1559,7 @@
                 ]
             },
             "properties": {
-                "id": "O15",
+                "GEO_ID": "O15",
                 "primaryName": "三重",
                 "name": "Sanchong",
                 "latitude": 25.055791,
@@ -1577,7 +1577,7 @@
                 ]
             },
             "properties": {
-                "id": "O16",
+                "GEO_ID": "O16",
                 "primaryName": "先嗇宮",
                 "name": "Xianse Temple",
                 "latitude": 25.046493,
@@ -1595,7 +1595,7 @@
                 ]
             },
             "properties": {
-                "id": "O17",
+                "GEO_ID": "O17",
                 "primaryName": "頭前庄",
                 "name": "Touqianzhuang",
                 "latitude": 25.039705,
@@ -1613,7 +1613,7 @@
                 ]
             },
             "properties": {
-                "id": "O18",
+                "GEO_ID": "O18",
                 "primaryName": "新莊",
                 "name": "Xinzhuang",
                 "latitude": 25.036125,
@@ -1631,7 +1631,7 @@
                 ]
             },
             "properties": {
-                "id": "O19",
+                "GEO_ID": "O19",
                 "primaryName": "輔大",
                 "name": "Fu Jen University",
                 "latitude": 25.032718,
@@ -1649,7 +1649,7 @@
                 ]
             },
             "properties": {
-                "id": "O20",
+                "GEO_ID": "O20",
                 "primaryName": "丹鳳",
                 "name": "Danfeng",
                 "latitude": 25.0288671,
@@ -1667,7 +1667,7 @@
                 ]
             },
             "properties": {
-                "id": "O21",
+                "GEO_ID": "O21",
                 "primaryName": "迴龍",
                 "name": "Huilong",
                 "latitude": 25.021862,
@@ -1685,7 +1685,7 @@
                 ]
             },
             "properties": {
-                "id": "O50",
+                "GEO_ID": "O50",
                 "primaryName": "三重國小",
                 "name": "Sanchong Elementary School",
                 "latitude": 25.070319,
@@ -1703,7 +1703,7 @@
                 ]
             },
             "properties": {
-                "id": "O51",
+                "GEO_ID": "O51",
                 "primaryName": "三和國中",
                 "name": "Sanhe Junior High School",
                 "latitude": 25.076859,
@@ -1721,7 +1721,7 @@
                 ]
             },
             "properties": {
-                "id": "O52",
+                "GEO_ID": "O52",
                 "primaryName": "徐匯中學",
                 "name": "St. Ignatius High School",
                 "latitude": 25.080728,
@@ -1739,7 +1739,7 @@
                 ]
             },
             "properties": {
-                "id": "O53",
+                "GEO_ID": "O53",
                 "primaryName": "三民高中",
                 "name": "Sanmin Senior High School",
                 "latitude": 25.085456,
@@ -1757,7 +1757,7 @@
                 ]
             },
             "properties": {
-                "id": "O54",
+                "GEO_ID": "O54",
                 "primaryName": "蘆洲",
                 "name": "Luzhou",
                 "latitude": 25.091554,
@@ -1775,7 +1775,7 @@
                 ]
             },
             "properties": {
-                "id": "BL01",
+                "GEO_ID": "BL01",
                 "primaryName": "頂埔",
                 "name": "Dingpu",
                 "latitude": 24.96012,
@@ -1793,7 +1793,7 @@
                 ]
             },
             "properties": {
-                "id": "BL02",
+                "GEO_ID": "BL02",
                 "primaryName": "永寧",
                 "name": "Yongning",
                 "latitude": 24.966726,
@@ -1811,7 +1811,7 @@
                 ]
             },
             "properties": {
-                "id": "BL03",
+                "GEO_ID": "BL03",
                 "primaryName": "土城",
                 "name": "Tucheng",
                 "latitude": 24.973094,
@@ -1829,7 +1829,7 @@
                 ]
             },
             "properties": {
-                "id": "BL04",
+                "GEO_ID": "BL04",
                 "primaryName": "海山",
                 "name": "Haishan",
                 "latitude": 24.985339,
@@ -1847,7 +1847,7 @@
                 ]
             },
             "properties": {
-                "id": "BL05",
+                "GEO_ID": "BL05",
                 "primaryName": "亞東醫院",
                 "name": "Far Eastern Hospital",
                 "latitude": 24.998037,
@@ -1865,7 +1865,7 @@
                 ]
             },
             "properties": {
-                "id": "BL06",
+                "GEO_ID": "BL06",
                 "primaryName": "府中",
                 "name": "Fuzhong",
                 "latitude": 25.008619,
@@ -1883,7 +1883,7 @@
                 ]
             },
             "properties": {
-                "id": "BL07",
+                "GEO_ID": "BL07",
                 "primaryName": "板橋",
                 "name": "Banqiao",
                 "latitude": 25.013618,
@@ -1901,7 +1901,7 @@
                 ]
             },
             "properties": {
-                "id": "BL08",
+                "GEO_ID": "BL08",
                 "primaryName": "新埔",
                 "name": "Xinpu",
                 "latitude": 25.023738,
@@ -1919,7 +1919,7 @@
                 ]
             },
             "properties": {
-                "id": "BL09",
+                "GEO_ID": "BL09",
                 "primaryName": "江子翠",
                 "name": "Jianzicui",
                 "latitude": 25.03001,
@@ -1937,7 +1937,7 @@
                 ]
             },
             "properties": {
-                "id": "BL10",
+                "GEO_ID": "BL10",
                 "primaryName": "龍山寺",
                 "name": "Longshan Temple",
                 "latitude": 25.03528,
@@ -1955,7 +1955,7 @@
                 ]
             },
             "properties": {
-                "id": "BL11",
+                "GEO_ID": "BL11",
                 "primaryName": "西門",
                 "name": "Ximen",
                 "latitude": 25.04209,
@@ -1973,7 +1973,7 @@
                 ]
             },
             "properties": {
-                "id": "BL12",
+                "GEO_ID": "BL12",
                 "primaryName": "台北車站",
                 "name": "Taipei Main Station",
                 "latitude": 25.046255,
@@ -1991,7 +1991,7 @@
                 ]
             },
             "properties": {
-                "id": "BL13",
+                "GEO_ID": "BL13",
                 "primaryName": "善導寺",
                 "name": "Shandao Temple",
                 "latitude": 25.044823,
@@ -2009,7 +2009,7 @@
                 ]
             },
             "properties": {
-                "id": "BL14",
+                "GEO_ID": "BL14",
                 "primaryName": "忠孝新生",
                 "name": "Zhongxiao Xinsheng",
                 "latitude": 25.042356,
@@ -2027,7 +2027,7 @@
                 ]
             },
             "properties": {
-                "id": "BL15",
+                "GEO_ID": "BL15",
                 "primaryName": "忠孝復興",
                 "name": "Zhongxiao Fuxing",
                 "latitude": 25.041629,
@@ -2045,7 +2045,7 @@
                 ]
             },
             "properties": {
-                "id": "BL16",
+                "GEO_ID": "BL16",
                 "primaryName": "忠孝敦化",
                 "name": "Zhongxiao Dunhua",
                 "latitude": 25.041478,
@@ -2063,7 +2063,7 @@
                 ]
             },
             "properties": {
-                "id": "BL17",
+                "GEO_ID": "BL17",
                 "primaryName": "國父紀念館",
                 "name": "Sun Yat-Sen Memorial Hall",
                 "latitude": 25.041349,
@@ -2081,7 +2081,7 @@
                 ]
             },
             "properties": {
-                "id": "BL18",
+                "GEO_ID": "BL18",
                 "primaryName": "市政府",
                 "name": "Taipei City Hall",
                 "latitude": 25.041171,
@@ -2099,7 +2099,7 @@
                 ]
             },
             "properties": {
-                "id": "BL19",
+                "GEO_ID": "BL19",
                 "primaryName": "永春",
                 "name": "Yongchun",
                 "latitude": 25.040859,
@@ -2117,7 +2117,7 @@
                 ]
             },
             "properties": {
-                "id": "BL20",
+                "GEO_ID": "BL20",
                 "primaryName": "後山埤",
                 "name": "Houshanpi",
                 "latitude": 25.045055,
@@ -2135,7 +2135,7 @@
                 ]
             },
             "properties": {
-                "id": "BL21",
+                "GEO_ID": "BL21",
                 "primaryName": "昆陽",
                 "name": "Kunyang",
                 "latitude": 25.050461,
@@ -2153,7 +2153,7 @@
                 ]
             },
             "properties": {
-                "id": "BL22",
+                "GEO_ID": "BL22",
                 "primaryName": "南港",
                 "name": "Nangang",
                 "latitude": 25.052116,
@@ -2171,7 +2171,7 @@
                 ]
             },
             "properties": {
-                "id": "BL23",
+                "GEO_ID": "BL23",
                 "primaryName": "南港展覽館",
                 "name": "Taipei Nangang Exhibition Center",
                 "latitude": 25.055288,
@@ -2189,7 +2189,7 @@
                 ]
             },
             "properties": {
-                "id": "Y07",
+                "GEO_ID": "Y07",
                 "primaryName": "大坪林",
                 "name": "Dapinglin",
                 "latitude": 24.982899,
@@ -2207,7 +2207,7 @@
                 ]
             },
             "properties": {
-                "id": "Y08",
+                "GEO_ID": "Y08",
                 "primaryName": "十四張",
                 "name": "Shisizhang",
                 "latitude": 24.9829302,
@@ -2225,7 +2225,7 @@
                 ]
             },
             "properties": {
-                "id": "Y09",
+                "GEO_ID": "Y09",
                 "primaryName": "秀朗橋",
                 "name": "Xiulang Bridge",
                 "latitude": 24.9905493,
@@ -2243,7 +2243,7 @@
                 ]
             },
             "properties": {
-                "id": "Y10",
+                "GEO_ID": "Y10",
                 "primaryName": "景平",
                 "name": "Jingping",
                 "latitude": 24.9919681,
@@ -2261,7 +2261,7 @@
                 ]
             },
             "properties": {
-                "id": "Y11",
+                "GEO_ID": "Y11",
                 "primaryName": "景安",
                 "name": "Jingan",
                 "latitude": 24.993905,
@@ -2279,7 +2279,7 @@
                 ]
             },
             "properties": {
-                "id": "Y12",
+                "GEO_ID": "Y12",
                 "primaryName": "中和",
                 "name": "Zhonghe",
                 "latitude": 25.0019806,
@@ -2297,7 +2297,7 @@
                 ]
             },
             "properties": {
-                "id": "Y13",
+                "GEO_ID": "Y13",
                 "primaryName": "橋和",
                 "name": "Qiaohe",
                 "latitude": 25.0044131,
@@ -2315,7 +2315,7 @@
                 ]
             },
             "properties": {
-                "id": "Y14",
+                "GEO_ID": "Y14",
                 "primaryName": "中原",
                 "name": "Zhongyuan",
                 "latitude": 25.0084104,
@@ -2333,7 +2333,7 @@
                 ]
             },
             "properties": {
-                "id": "Y15",
+                "GEO_ID": "Y15",
                 "primaryName": "板新",
                 "name": "Banxin",
                 "latitude": 25.0144914,
@@ -2351,7 +2351,7 @@
                 ]
             },
             "properties": {
-                "id": "Y16",
+                "GEO_ID": "Y16",
                 "primaryName": "板橋",
                 "name": "Banqiao",
                 "latitude": 25.015156,
@@ -2369,7 +2369,7 @@
                 ]
             },
             "properties": {
-                "id": "Y17",
+                "GEO_ID": "Y17",
                 "primaryName": "新埔民生",
                 "name": "Xinpu Minsheng",
                 "latitude": 25.026125,
@@ -2387,7 +2387,7 @@
                 ]
             },
             "properties": {
-                "id": "Y18",
+                "GEO_ID": "Y18",
                 "primaryName": "頭前庄",
                 "name": "Touqianzhuang",
                 "latitude": 25.039735,
@@ -2405,7 +2405,7 @@
                 ]
             },
             "properties": {
-                "id": "Y19",
+                "GEO_ID": "Y19",
                 "primaryName": "幸福",
                 "name": "Xingfu",
                 "latitude": 25.050282,
@@ -2423,7 +2423,7 @@
                 ]
             },
             "properties": {
-                "id": "Y20",
+                "GEO_ID": "Y20",
                 "primaryName": "新北產業園區",
                 "name": "New Taipei Industrial Park",
                 "latitude": 25.0615483,
@@ -2441,7 +2441,7 @@
                 ]
             },
             "properties": {
-                "id": "A1",
+                "GEO_ID": "A1",
                 "primaryName": "台北車站",
                 "name": "Taipei Main Station",
                 "latitude": 25.0491868,
@@ -2459,7 +2459,7 @@
                 ]
             },
             "properties": {
-                "id": "A2",
+                "GEO_ID": "A2",
                 "primaryName": "三重",
                 "name": "Sanchong",
                 "latitude": 25.0552963,
@@ -2477,7 +2477,7 @@
                 ]
             },
             "properties": {
-                "id": "A3",
+                "GEO_ID": "A3",
                 "primaryName": "新北產業園區",
                 "name": "New Taipei Industrial Park",
                 "latitude": 25.061716,
@@ -2495,7 +2495,7 @@
                 ]
             },
             "properties": {
-                "id": "A4",
+                "GEO_ID": "A4",
                 "primaryName": "新莊副都心",
                 "name": "Xinzhuang Fuduxin",
                 "latitude": 25.0591305,
@@ -2513,7 +2513,7 @@
                 ]
             },
             "properties": {
-                "id": "A5",
+                "GEO_ID": "A5",
                 "primaryName": "泰山",
                 "name": "Taishan",
                 "latitude": 25.0532726,
@@ -2531,7 +2531,7 @@
                 ]
             },
             "properties": {
-                "id": "A6",
+                "GEO_ID": "A6",
                 "primaryName": "泰山貴和",
                 "name": "Taishan Guihe",
                 "latitude": 25.0334752,
@@ -2549,7 +2549,7 @@
                 ]
             },
             "properties": {
-                "id": "A7",
+                "GEO_ID": "A7",
                 "primaryName": "體育大學",
                 "name": "National Taiwan Sport University",
                 "latitude": 25.041246,
@@ -2567,7 +2567,7 @@
                 ]
             },
             "properties": {
-                "id": "A8",
+                "GEO_ID": "A8",
                 "primaryName": "長庚醫院",
                 "name": "Chang Gung Memorial Hospital",
                 "latitude": 25.0604363,
@@ -2585,7 +2585,7 @@
                 ]
             },
             "properties": {
-                "id": "A9",
+                "GEO_ID": "A9",
                 "primaryName": "林口",
                 "name": "Linkou",
                 "latitude": 25.0665023,
@@ -2603,7 +2603,7 @@
                 ]
             },
             "properties": {
-                "id": "A10",
+                "GEO_ID": "A10",
                 "primaryName": "山鼻",
                 "name": "Shanbi",
                 "latitude": 25.0803514,
@@ -2621,7 +2621,7 @@
                 ]
             },
             "properties": {
-                "id": "A11",
+                "GEO_ID": "A11",
                 "primaryName": "坑口",
                 "name": "Kengkou",
                 "latitude": 25.086516,
@@ -2639,7 +2639,7 @@
                 ]
             },
             "properties": {
-                "id": "A12",
+                "GEO_ID": "A12",
                 "primaryName": "機場第一航廈",
                 "name": "Airport Terminal 1",
                 "latitude": 25.081385,
@@ -2657,7 +2657,7 @@
                 ]
             },
             "properties": {
-                "id": "A13",
+                "GEO_ID": "A13",
                 "primaryName": "機場第二航廈",
                 "name": "Airport Terminal 2",
                 "latitude": 25.0772703,
@@ -2675,7 +2675,7 @@
                 ]
             },
             "properties": {
-                "id": "A14a",
+                "GEO_ID": "A14a",
                 "primaryName": "機場旅館",
                 "name": "Airport Hotel",
                 "latitude": 25.0692598,
@@ -2693,7 +2693,7 @@
                 ]
             },
             "properties": {
-                "id": "A15",
+                "GEO_ID": "A15",
                 "primaryName": "大園",
                 "name": "Dayuan",
                 "latitude": 25.0560465,
@@ -2711,7 +2711,7 @@
                 ]
             },
             "properties": {
-                "id": "A16",
+                "GEO_ID": "A16",
                 "primaryName": "橫山",
                 "name": "Hengshan",
                 "latitude": 25.0460284,
@@ -2729,7 +2729,7 @@
                 ]
             },
             "properties": {
-                "id": "A17",
+                "GEO_ID": "A17",
                 "primaryName": "領航",
                 "name": "Linghang",
                 "latitude": 25.0189695,
@@ -2747,7 +2747,7 @@
                 ]
             },
             "properties": {
-                "id": "A18",
+                "GEO_ID": "A18",
                 "primaryName": "高鐵桃園站",
                 "name": "Taoyuan HSR Station",
                 "latitude": 25.013762,
@@ -2765,7 +2765,7 @@
                 ]
             },
             "properties": {
-                "id": "A19",
+                "GEO_ID": "A19",
                 "primaryName": "桃園體育園區",
                 "name": "Taoyuan Sports Park",
                 "latitude": 25.001996,
@@ -2783,7 +2783,7 @@
                 ]
             },
             "properties": {
-                "id": "A20",
+                "GEO_ID": "A20",
                 "primaryName": "興南",
                 "name": "Xingnan",
                 "latitude": 24.9802492,
@@ -2801,7 +2801,7 @@
                 ]
             },
             "properties": {
-                "id": "A21",
+                "GEO_ID": "A21",
                 "primaryName": "環北",
                 "name": "Huanbei",
                 "latitude": 24.967381,
