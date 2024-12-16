@@ -1,0 +1,31 @@
+[
+    {
+        "key": "customer-a",
+        "name": "Kevins Kök",
+        "url": "https://.../customer-a/reference_map.geojson"
+    },
+    {
+        "key": "customer-b",
+        "name": "Jonas Brädor och Spik",
+        "url": "https://.../customer-a/reference_map.geojson"
+    },
+    {
+        "key": "customer-c",
+        "name": "Finans AB",
+        "url": "https://.../customer-a/reference_map.geojson"
+    },
+    {
+        "key": "customer-d",
+        "name": "Int. Kotletter AB",
+        "url": "https://.../customer-a/reference_map.geojson"
+    },
+    {
+        "key": "customer-e",
+        "name": "Anettes Kattmat AB",
+        "url": "https://.../customer-a/reference_map.geojson"
+    },{
+        "key": "customer-e",
+        "name": "Ingrids Förskolor AB",
+        "url": "https://.../customer-a/reference_map.geojson"
+    }
+]
