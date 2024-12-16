@@ -1,4 +1,4 @@
-# Return format when 
+# Return format?
 In the server.py, in the hello_world function, how should the files be returned so that they can be parsed by PowerBI reference map module?
 
 I tried sending it as zip, raw json payload, json file etc but nothing worked. 
